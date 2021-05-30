@@ -1,2 +1,2 @@
-# SimonGame
-Simon Game
+Simon Game created using JQuery + HTML + CSS + Bootstrap
+
